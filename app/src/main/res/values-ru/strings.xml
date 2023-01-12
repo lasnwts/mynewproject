@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mynewproject</string>
+    <string name="date">дата</string>
+    <string name="massageerror">Введите название города</string>
+    <string name="label_date">Сегодня: </string>
+    <string name="label_fail_get_weather">"Сведения о погоде не удалось получить...(</string>
+</resources>

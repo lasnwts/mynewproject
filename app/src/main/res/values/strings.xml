@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mynewproject</string>
+    <string name="date">Date</string>
+    <string name="massageerror">Input name town</string>
+    <string name="label_date">Today: </string>
+    <string name="label_fail_get_weather">"Weather data could not be retrieved...(</string>
+</resources>
